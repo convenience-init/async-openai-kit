@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "async-net",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/convenience-init/async-net",
+      "state" : {
+        "revision" : "386575909613dfbc712f034d51e2b43c5a54a79e",
+        "version" : "0.1.2-alpha"
+      }
+    }
+  ],
+  "version" : 2
+}
